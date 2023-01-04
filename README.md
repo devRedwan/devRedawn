@@ -16,7 +16,7 @@ As a frontend/web developer, I am deeply committed to creating web applications 
 -   💬 I am open to freelance work. Hit me up!
 -   📝 Regularly trying get better at the new technologies
 -   📫 How to reach me: contact@redwanahmed.com
--   📝 [Resume]([https://www.blakeyeboah.com/assets/Blake_Yeboah_Resume.pdf](https://media1.giphy.com/media/iHD88spVFkL7mZakwa/giphy.gif?cid=790b76110e7ae03bf67f8a0d7dada64c79a7977963621a52&rid=giphy.gif&ct=g)).
+-   📝 <a href='https://media1.giphy.com/media/iHD88spVFkL7mZakwa/giphy.gif?cid=790b76110e7ae03bf67f8a0d7dada64c79a7977963621a52&rid=giphy.gif&ct=g'> Resume </a>
 
 </br>
 
@@ -36,14 +36,9 @@ As a frontend/web developer, I am deeply committed to creating web applications 
 
 
 💪 **Constantly Improving on:**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
-
 
 ## 📈 **My GitHub Stats:**
 <p>
@@ -51,4 +46,5 @@ As a frontend/web developer, I am deeply committed to creating web applications 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRedwan&hide=HTML&exclude_repo=FWHW1repo1,FrameWork,intro-to-apis-node,FES_first_project,HTML-Crash-Course&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=blue-green"/>
 </p>
 
-
+### 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)

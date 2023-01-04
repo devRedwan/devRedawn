@@ -2,7 +2,8 @@
 
 
 ### Thank you for stumbling onto my page! 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="width:325px;height:auto;padding-left:20px;border-radius:5px"/>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="width:325px;height:auto;padding-left:20px;"/>
 
 I am a frontend software developer. I love programming, solving problems and learning new technologies.
 
@@ -47,5 +48,7 @@ As a frontend/web developer, I am deeply committed to creating web applications 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRedwan&hide=HTML&exclude_repo=FWHW1repo1,FrameWork,intro-to-apis-node,FES_first_project,HTML-Crash-Course&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=blue-green"/>
 </p>
 
+
 ### 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+

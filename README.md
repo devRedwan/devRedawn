@@ -9,33 +9,36 @@ As a frontend/web developer, I am deeply committed to creating web applications 
 
 <img align="right" alt="GIF" src="./coding.gif?raw=true" width="325" height="200" />
 
-**Talking about Personal Stuffs:**
+**Talking about my latest Obsessions:**
 
--   👨🏻‍💻 I’m currently working on developing my skills;
--   🚀 I’m currently learning C#
--   💬 Ask me about anything, I am happy to help;
--   📝 I regulary write articles on my [blog](https://blog.blakeyeboah.com/);
--   📫 How to reach me: contact@blakeyeboah.com;
--   📝 [Resume](https://www.blakeyeboah.com/assets/Blake_Yeboah_Resume.pdf).
+-   👨🏻‍💻 I’m currently in love with NextJs and working become a master at it;
+-   🚀 Sassy Css(Saas) is the best. Only thing more fun than learning the syntax is witnessing its power on a beautiful UI
+-   💬 I am open to freelance work. Hit me up!
+-   📝 Regularly trying get better at the new technologies
+-   📫 How to reach me: contact@redwanahmed.com;
+-   📝 [Resume]([https://www.blakeyeboah.com/assets/Blake_Yeboah_Resume.pdf](https://media1.giphy.com/media/iHD88spVFkL7mZakwa/giphy.gif?cid=790b76110e7ae03bf67f8a0d7dada64c79a7977963621a52&rid=giphy.gif&ct=g)).
 
 </br>
 
-💪 **Technical Proficiencies:**
+💪 **Technical Stack:**
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/Next.js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+💪 **Constantly Improving on:**
+
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
 
 📈 **My GitHub Stats:**
 
@@ -43,3 +46,5 @@ As a frontend/web developer, I am deeply committed to creating web applications 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devRedwan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=blue-green&hide=issues,contribs" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRedwan&hide=HTML&exclude_repo=FWHW1repo1,FrameWork,intro-to-apis-node,FES_first_project,HTML-Crash-Course&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=blue-green"/>
 </p>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)

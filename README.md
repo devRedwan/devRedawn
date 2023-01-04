@@ -40,6 +40,6 @@ As a frontend/web developer, I am deeply committed to creating web applications 
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Blake-K-Yeboah&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=blue-green" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blake-K-Yeboah&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devRedwan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=blue-green" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRedwan&exclude_repo=&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=blue-green"/>
 </p>

@@ -11,7 +11,7 @@ As a frontend/web developer, I am deeply committed to creating web applications 
 
 **Talking about my latest Obsessions:**
 
--   👨🏻‍💻 I’m currently in love with NextJs and working become a master at it;
+-   👨🏻‍💻 I’m currently in love with NextJs and working become a master at it
 -   🚀 Sassy Css(Saas) is the best. Only thing more fun than learning the syntax is witnessing its power on a beautiful UI
 -   💬 I am open to freelance work. Hit me up!
 -   📝 Regularly trying get better at the new technologies

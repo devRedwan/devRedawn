@@ -1,11 +1,11 @@
 # Hi there, I'm <a href="https://www.redwanahmed.com/" target="_blank">Redwan Ahmed</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/redwan-ahmed/)
 
 
-### Thank you for stumbling onto my page! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Redwan-Ahmed.Redwan-Ahmed&left_text='Guest#')
+### Thank you for stumbling onto my page! 
 
-I am a full-stack software developer and technical writer on my [blog](https://blog.blakeyeboah.com/). I love programming, writing articles, playing chess and designing UIs.
+I am a frontend software developer. I love programming, solving problems and learning new technologies.
 
-As a web developer, I enjoy using my detail-oriented nature to build elegant, performing full stack web applications.
+As a frontend/web developer, I am deeply committed to creating web applications that are both visually appealing and functionally excellent. I use the most efficient coding practices paying close attention to detail to ensure a seamless, delightful user experience.
 
 <img align="right" alt="GIF" src="./coding.gif?raw=true" width="325" height="200" />
 

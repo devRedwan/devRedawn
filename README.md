@@ -2,12 +2,13 @@
 
 
 ### Thank you for stumbling onto my page! 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="width:325px;height:auto;padding-left:20px;"/>
 
 I am a frontend software developer. I love programming, solving problems and learning new technologies.
 
+
 As a frontend/web developer, I am deeply committed to creating web applications that are both visually appealing and functionally excellent. I use the most efficient coding practices paying close attention to detail to ensure a seamless, delightful user experience.
 
-<img align="right" alt="GIF" src="./coding.gif?raw=true" width="325" height="200" />
 
 **Talking about my latest Obsessions:**
 

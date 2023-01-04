@@ -39,10 +39,10 @@ As a frontend/web developer, I am deeply committed to creating web applications 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-## 😂 Here is a random joke that'll make you laugh!
+### 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-📈 **My GitHub Stats:**
+## 📈 **My GitHub Stats:**
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devRedwan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=blue-green&hide=issues,contribs" />

@@ -1,7 +1,7 @@
 # Hi there, I'm <a href="https://www.redwanahmed.com/" target="_blank">Redwan Ahmed</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/redwan-ahmed/)
 
 
-### Thank you for stumbling onto my page! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Redwan-Ahmed.Redwan-Ahmed)
+### Thank you for stumbling onto my page! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Redwan-Ahmed.Redwan-Ahmed&left_text=Guest#)
 
 I am a full-stack software developer and technical writer on my [blog](https://blog.blakeyeboah.com/). I love programming, writing articles, playing chess and designing UIs.
 

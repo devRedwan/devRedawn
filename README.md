@@ -27,7 +27,7 @@ As a frontend/web developer, I am deeply committed to creating web applications 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/Next.js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![NextJs]([https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white))
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -39,6 +39,8 @@ As a frontend/web developer, I am deeply committed to creating web applications 
 
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 📈 **My GitHub Stats:**
 
@@ -47,4 +49,4 @@ As a frontend/web developer, I am deeply committed to creating web applications 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRedwan&hide=HTML&exclude_repo=FWHW1repo1,FrameWork,intro-to-apis-node,FES_first_project,HTML-Crash-Course&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=blue-green"/>
 </p>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+

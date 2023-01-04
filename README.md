@@ -2,7 +2,7 @@
 
 
 ### Thank you for stumbling onto my page! 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="width:325px;height:auto;padding-left:20px;"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="width:325px;height:auto;padding-left:20px;border-radius:5px"/>
 
 I am a frontend software developer. I love programming, solving problems and learning new technologies.
 

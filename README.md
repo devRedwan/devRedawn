@@ -5,7 +5,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="width:325px;height:auto;padding-left:20px;"/>
 
-I am a frontend software developer. I love programming, solving problems and learning new technologies.
+I am a passionate, self-taught frontend software developer.
 
 
 As a frontend/web developer, I am deeply committed to creating web applications that are both visually appealing and functionally excellent. I use the most efficient coding practices paying close attention to detail to ensure a seamless, delightful user experience.
@@ -14,9 +14,9 @@ As a frontend/web developer, I am deeply committed to creating web applications 
 **Talking about my latest Obsessions:**
 
 -   👨🏻‍💻 I’m currently in love with NextJs and working to become a master at it
--   🚀 Sassy Css(Saas) is the best. Only thing more fun than learning the syntax is witnessing its power on a beautiful UI
+-   🚀 Sassy Css(Saas) is the best. The only thing more fun than learning the syntax is witnessing its power on a beautiful UI
 -   💬 I am open to freelance work. Hit me up!
--   📝 Regularly trying get better at the new technologies
+-   📝 Regularly trying to get better at the new technologies
 -   📫 How to reach me: contact@redwanahmed.com
 -   📝 <a href='https://www.redwanahmed.com'> Resume </a>
 
@@ -44,11 +44,10 @@ As a frontend/web developer, I am deeply committed to creating web applications 
 
 ## 📈 **My GitHub Stats:**
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devRedwan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=blue-green&hide=issues,contribs" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRedwan&exclude_repo=FWHW1repo1,FrameWork,intro-to-apis-node,FES_first_project,HTML-Crash-Course&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devredwan&hide_border=true&theme=tokyonight" alt="devredwan" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRedwan&exclude_repo=FWHW1repo1,FrameWork,intro-to-apis-node,FES_first_project,HTML-Crash-Course&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saurabhdaware&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_title=true" />
 </p>
 
 
-### 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
 

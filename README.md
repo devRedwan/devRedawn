@@ -18,7 +18,7 @@ As a frontend/web developer, I am deeply committed to creating web applications 
 -   💬 I am open to freelance work. Hit me up!
 -   📝 Regularly trying get better at the new technologies
 -   📫 How to reach me: contact@redwanahmed.com
--   📝 <a href='https://media1.giphy.com/media/iHD88spVFkL7mZakwa/giphy.gif?cid=790b76110e7ae03bf67f8a0d7dada64c79a7977963621a52&rid=giphy.gif&ct=g'> Resume </a>
+-   📝 <a href='https://www.redwanahmed.com'> Resume </a>
 
 </br>
 
